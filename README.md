@@ -1,5 +1,5 @@
 
-<img src = "programmer.jpg" height = "300px" width = "100%"/>
+<img src = "model.png" height = "300px" width = "100%"/>
 
 ### Hi there 👋 welcome to Soumik Software
 
@@ -10,7 +10,7 @@ You can find us on [![Twitter][1.2]][1]
 <hr>
 
 <img src = "https://img.shields.io/badge/website-soumikmahato.xyz-yellowgreen" />  <img src="https://img.shields.io/badge/Headquarter-India-redgreen">  <img src="https://img.shields.io/badge/Build-Pass-green"/>
-   <img src = "https://img.shields.io/badge/Uptime-99.9%-blue" /> 
+   <img src = "https://img.shields.io/badge/Uptime-99.9-blue" /> 
 
 - 👋 Hi, we are @soumiksoftware
 - 🌐 The official organization who maintain soumikmahato.xyz
